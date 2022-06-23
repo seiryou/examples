@@ -4,9 +4,9 @@
   "description": "This example for Stripe integration using AWS Lambda and API Gateway.",
   "main": "handler.js",
   "dependencies": {
-    "config": "^1.24.0",
-    "js-yaml": "^3.7.0",
-    "stripe": "^4.14.0"
+    "config": "^3.3.7",
+    "js-yaml": "^4.1.0",
+    "stripe": "^9.9.0"
   },
   "devDependencies": {},
   "scripts": {
